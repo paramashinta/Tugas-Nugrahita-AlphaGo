@@ -4,3 +4,5 @@
 - NIM	: 19101078
 - Asal	: Institut Teknologi Telkom Purwokerto
 - Kelas	: AlphaGo
+
+Terima Kasih
